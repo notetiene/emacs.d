@@ -1,0 +1,4 @@
+# -*- mode: org; coding: utf-8; -*-
+#+title: GNU Emacs Literate Configuration
+#+author: Etienne Prud’homme
+#+email:  e.e.f.prudhomme@gmail.com
